@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: Todo
+      host: ardamongodb
+      port: 27017
